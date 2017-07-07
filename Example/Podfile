@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JKVerifyTool_Example' do
+  pod 'JKVerifyTool', :path => '../'
+
+  target 'JKVerifyTool_Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+  end
+end
