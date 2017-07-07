@@ -1,0 +1,19 @@
+PODS:
+  - JKVerifyTool (0.1.0)
+  - Kiwi (2.4.0)
+
+DEPENDENCIES:
+  - JKVerifyTool (from `../`)
+  - Kiwi
+
+EXTERNAL SOURCES:
+  JKVerifyTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JKVerifyTool: 60dfa29687e17b1b9806b8f6751fde1ea5fbb285
+  Kiwi: f49c9d54b28917df5928fe44968a39ed198cb8a8
+
+PODFILE CHECKSUM: 7cda281af9fd5d395194e9e94bb6761a57627351
+
+COCOAPODS: 1.1.1

@@ -1,0 +1,6 @@
+framework module JKVerifyTool {
+  umbrella header "JKVerifyTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

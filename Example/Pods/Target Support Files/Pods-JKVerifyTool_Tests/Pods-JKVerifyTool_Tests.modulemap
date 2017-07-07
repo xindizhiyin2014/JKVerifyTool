@@ -1,0 +1,6 @@
+framework module Pods_JKVerifyTool_Tests {
+  umbrella header "Pods-JKVerifyTool_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
